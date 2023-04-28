@@ -8,9 +8,9 @@ This code tells how to implement the enhancement encoding of labels. It's a nove
 
 ## Setting up the environment
 
-- Install Anaconda3.
-- Create a new conda environment.
-- Install packages with following commands:
+1. Install Anaconda3.
+1. Create a new conda environment.
+1. Install packages with following commands:
   
     ```
     conda install numpy tensorflow-gpu scikit-learn matplotlib ipykernel
