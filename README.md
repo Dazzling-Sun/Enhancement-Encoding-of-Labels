@@ -1,6 +1,6 @@
 # Enhancement Encoding of Labels
 
-This code tells how to implement the enhancement encoding. It's a novel imbalanced classification algorithm via encoding the labels of training set.
+This code tells how to implement the enhancement encoding (<https://arxiv.org/abs/2208.11056>). It's a novel imbalanced classification algorithm via encoding the labels of training set.
 
 ## Acknowledgements
 
